@@ -1,0 +1,7 @@
+,column,count_missing,p_missing
+0,order_id,5,1.0
+1,amount,1,0.2
+2,quantity,1,0.2
+3,user_id,0,0.0
+4,created_at,0,0.0
+5,status,0,0.0
