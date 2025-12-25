@@ -1,0 +1,12 @@
+{
+  "timestamp_utc": "2025-12-25T17:49:47.660004+00:00",
+  "rows": 5,
+  "missing_created_at": 1,
+  "config": {
+    "root": "/Users/farahhassan/Desktop/AICourse/bootcamp/week2/W2D5_assigment",
+    "raw_orders": "/Users/farahhassan/Desktop/AICourse/bootcamp/week2/W2D5_assigment/data/raw/orders.csv",
+    "raw_users": "/Users/farahhassan/Desktop/AICourse/bootcamp/week2/W2D5_assigment/data/raw/users.csv",
+    "out_analytics": "/Users/farahhassan/Desktop/AICourse/bootcamp/week2/W2D5_assigment/data/processed/analytics_table.parquet",
+    "run_meta": "/Users/farahhassan/Desktop/AICourse/bootcamp/week2/W2D5_assigment/data/processed/_run_meta.json"
+  }
+}
